@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://kingmfundist.github.io/mine-electricals-website/sitemap.xml
